@@ -1,5 +1,5 @@
 # [PyCpil](https://pypi.org/project/pycpil/)
-[PyCpil](https://pypi.org/project/pycpil/) is a pkg to calculate isobaric heat capacity of ionic liquids and ionanofluids (nanofluids).
+[PyCpil](https://pypi.org/project/pycpil/) is a pip pkg to calculate isobaric heat capacity of ionic liquids and ionanofluids (nanofluids).
 
 PyCpil pkg is a part of the research work and can be further used with a proper citation.
 

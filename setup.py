@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(name='pycpil',
-        version='1.0.0',
+        version='1.0.1',
         license='MIT',
         url='https://github.com/nirmalparmarphd/PyCpil',
         description='PyCpil is a pip pkg to calculate isobaric heat capacity of ionic liquids and ionanofluids (nanofluids)', 
