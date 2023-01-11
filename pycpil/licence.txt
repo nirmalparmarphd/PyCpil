@@ -1,0 +1,4 @@
+This package 'PyCpil' is prepared as part of the research work and can be fruther used with proper citation.
+
+Author: Nirmal Parmar
+email: nirmalparmarphd@gmail.com
